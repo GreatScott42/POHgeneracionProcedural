@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://di7mup7swc62k"]
+
+[ext_resource type="Texture2D" uid="uid://c445003ukaqmq" path="res://proton.png" id="1_yfkki"]
+
+[node name="Sprite2D" type="Sprite2D"]
+modulate = Color(1, 1, 0, 1)
+scale = Vector2(5, 5)
+texture = ExtResource("1_yfkki")
